@@ -1,0 +1,2 @@
+# AI-DRIVEN-NON-RADIATIVE-MATERNAL-FETAL-MONITORING-FOR-SAFE-PRENATAL-CARE-IN-SUB-SAHARAN-AFRICA
+This repository contains the source code, design files, and documentation for an AI-driven, non-radiative maternal–fetal monitoring system. The project leverages advanced AI models and sensor fusion techniques to deliver continuous, safe, and real-time maternal and fetal health monitoring without the use of harmful radiations.
