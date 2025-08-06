@@ -52,7 +52,7 @@ This project presents a novel, AI-integrated maternal–fetal monitoring system 
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This project is was a personal initiative and idea and is seeking funds.
 
 ## Contact
 
